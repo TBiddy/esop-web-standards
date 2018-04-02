@@ -53,6 +53,14 @@ body {
   background-color: #fff;
 }
 
+strong {
+  font-weight: 600;
+}
+
+em {
+  font-style: italic;
+}
+
 /* Serif Styles */
 .serif {
   font-family: "freight-micro-pro";
