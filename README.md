@@ -2,7 +2,7 @@
 
 All styles are based on [Bootstrap 4.](https://getbootstrap.com)
 
-A demo of the styles below can be found [here](https://tbiddy.github.io/esop-web-standards/).
+[Demo of web styles can be found here.](https://tbiddy.github.io/esop-web-standards/).
 
 Code snippets for quick integration are listed below. Please consult the brand standards PDF for additional details.
 
