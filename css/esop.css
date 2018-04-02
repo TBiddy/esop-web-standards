@@ -56,10 +56,12 @@ body {
 /* Serif Styles */
 .serif {
   font-family: "freight-micro-pro";
+  font-style: normal;
 }
 
 h1, h2, h3, h4, h5, h6, .serif {
   font-weight: 600;
+  font-style: normal;
 }
 
 .serif-text {
