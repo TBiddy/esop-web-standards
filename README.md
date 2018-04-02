@@ -2,11 +2,11 @@
 
 All styles are based on [Bootstrap 4.](https://getbootstrap.com)
 
-A demo of the styles below can be found [here](index.html).
+A demo of the styles below can be found [here](https://tbiddy.github.io/esop-web-standards/).
 
 Code snippets for quick integration are listed below. Please consult the brand standards PDF for additional details.
 
-## Navbars
+## Navbars [Bootstrap Navbar Page](http://getbootstrap.com/docs/4.0/components/navbar/)
 
 ### Blue Navbar (Default)
 ```html
@@ -84,7 +84,7 @@ To use the serif fonts (Freight Micro Pro):
 * Use `.serif-text` for `<p>` text.
 * Use `.serif-lead` to use the original Bootstrap `.lead` class for serif fonts.
 
-## Buttons
+## Buttons [Bootstrap Buttons Page](http://getbootstrap.com/docs/4.0/components/buttons/)
 
 ### Solid Buttons
 ```html
@@ -102,7 +102,7 @@ To use the serif fonts (Freight Micro Pro):
 ```
 
 
-## Badges
+## Badges [Bootstrap Badges Page](http://getbootstrap.com/docs/4.0/components/badge/)
 
 ```html
 <span class="badge badge-blue">Blue</span>
