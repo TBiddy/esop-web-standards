@@ -6,9 +6,46 @@ All styles are based on [Bootstrap 4.](https://getbootstrap.com)
 
 Code snippets for quick integration are listed below. Please consult the brand standards PDF for additional details.
 
+## Colors
+```css
+/* BRAND COLORS FOR WEB
+--------------------------------------------------
+
+ESOP Master Blue (Pantone 640) = #0082bb
+Hover States
+#006b99
+#005980
+#004766
+
+=== Secondary Colors ===
+
+ESOP Yellow (Pantone 130) = #f0ab00
+Hover States
+#cc9200
+#b38000
+#996e00
+
+ESOP Purple (Pantone 248) = #9b1889
+Hover States
+#6e1162
+#580e4e
+#420a3b
+
+ESOP Green (Pantone 390)  = #b6bf00
+Hover States
+#919900
+#798000
+#616600
+
+-------------------------------------------------- */
+```
+
 ## Navbars ([Bootstrap Navbar Page](http://getbootstrap.com/docs/4.0/components/navbar/))
 
 ### Blue Navbar (Default)
+
+Custom navbar color applied by adding `.bg-blue` class.
+
 ```html
 <header>
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-blue">
@@ -83,40 +120,6 @@ To use the serif fonts (Freight Micro Pro):
 * Use the `.serif` class for `<h1>` through `<h6>`.
 * Use `.serif-text` for `<p>` text.
 * Use `.serif-lead` to use the original Bootstrap `.lead` class for serif fonts.
-
-## Colors
-```css
-/* BRAND COLORS FOR WEB
---------------------------------------------------
-
-ESOP Master Blue (Pantone 640) = #0082bb
-Hover States
-#006b99
-#005980
-#004766
-
-=== Secondary Colors ===
-
-ESOP Yellow (Pantone 130) = #f0ab00
-Hover States
-#cc9200
-#b38000
-#996e00
-
-ESOP Purple (Pantone 248) = #9b1889
-Hover States
-#6e1162
-#580e4e
-#420a3b
-
-ESOP Green (Pantone 390)  = #b6bf00
-Hover States
-#919900
-#798000
-#616600
-
--------------------------------------------------- */
-```
 
 ## Buttons ([Bootstrap Buttons Page](http://getbootstrap.com/docs/4.0/components/buttons/))
 
